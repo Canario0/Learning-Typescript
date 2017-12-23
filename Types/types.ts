@@ -26,7 +26,7 @@ var names : String []= ["Jon", "Rickon"];
 var names2 : any[]= ["Jon", "Rickon", 5];
 
 //enum, their values are Jon=0, Bran=1...
-enum Starks {Jon,Bran,Eddard,Catlyn}
+enum Starks {Jon,Bran,Eddard,Catlyn};
 
 var cat : Starks= Starks.Catlyn;
 

@@ -15,7 +15,7 @@ var iswinter = false;
 var names = ["Jon", "Rickon"];
 //Multitype array
 var names2 = ["Jon", "Rickon", 5];
-//enum
+//enum, their values are Jon=0, Bran=1...
 var Starks;
 (function (Starks) {
     Starks[Starks["Jon"] = 0] = "Jon";
