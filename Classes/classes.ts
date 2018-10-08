@@ -2,7 +2,7 @@
 // in other words to have instances of the class.
 class Stark{
 
-    //Members in a clas cont be optional.
+    //Members in a class cant be optional.
     name: String;
     saying: String;
     //Satitic property
