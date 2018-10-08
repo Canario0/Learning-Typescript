@@ -1,7 +1,7 @@
 
 //This will compile without error
 var n : Number =1;
-//We can u se type any , to mach any tipe.
+//We can use type any , to mach any tipe.
 var b : any;
 b = 'Rob';
 b = 123;
